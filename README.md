@@ -1,0 +1,1 @@
+This repo contains Terraform configuration files to deploy an EKS cluster on AWS.
